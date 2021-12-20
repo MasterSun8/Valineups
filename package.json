@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fightmegg/riot-api": "^0.0.8",
+    "file-system": "^2.2.2"
+  }
+}
